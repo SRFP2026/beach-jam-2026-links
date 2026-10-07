@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srfp2026.github.io/beach-jam-2026-links/sitemap.xml
+# After publish, set this to your live *.grok.me sitemap URL:
+Sitemap: https://beach-jam-2026-links.grok.me/sitemap.xml
