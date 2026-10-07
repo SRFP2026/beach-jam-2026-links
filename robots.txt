@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srfp2026.github.io/beach-jam-2026-links/sitemap.xml
